@@ -1,5 +1,7 @@
 ## Hi, I'm Rami 👋
 
+*AI for things that matter*
+
 I'm a data scientist, Head of AI at [Beamery](https://beamery.com), and a researcher in lifelogging and AI.
 
 - **AI leadership:** I lead the AI function at Beamery, turning data about skills, roles and careers into practical tools for talent and workforce planning.
