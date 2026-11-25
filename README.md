@@ -11,6 +11,7 @@ I'm a data scientist, Head of AI at [Beamery](https://beamery.com), and a resear
   - [Renewables Clock](https://ramialbatal.github.io/renewables-clock/) ([code](https://github.com/ramialbatal/renewables-clock)): solar, wind and hydro electricity, and progress toward tripling renewables by 2030.
   - [Jobs Clock](https://ramialbatal.github.io/jobs-clock/) ([code](https://github.com/ramialbatal/jobs-clock)): net new jobs vs people looking for work, and whether job growth keeps up.
   - [Peace Clock](https://ramialbatal.github.io/peace-clock/) ([code](https://github.com/ramialbatal/peace-clock)): world military spending next to the lives lost to war, and what the same money could pay for.
+  - [Warming Clock](https://ramialbatal.github.io/warming-clock/) ([code](https://github.com/ramialbatal/warming-clock)): how much hotter the world is than before industry, against the Paris limits of 1.5°C and 2°C, with a live countdown.
   - All built on [clock-core](https://github.com/ramialbatal/clock-core), an open toolkit. Contributions welcome.
 
 ### Find me
